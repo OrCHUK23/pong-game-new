@@ -10,7 +10,7 @@ SCREEN_HEIGHT = 600
 screen = Screen()
 screen.setup(width=SCREEN_WIDTH, height=SCREEN_HEIGHT)
 screen.bgcolor("black")
-screen.title("My Pong Game")
+screen.title("My Pong Game2")
 screen.tracer(0)
 # Create the two players and place them at the left and right edges of the screen.
 right_player = Paddle(screen_width=SCREEN_WIDTH / 2 - 30, screen_height=SCREEN_HEIGHT)
