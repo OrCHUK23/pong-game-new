@@ -16,7 +16,7 @@ The Pong Game is a classic arcade game implemented using Python and the Turtle g
 5. Game over: The game continues until a certain score limit is reached or until players choose to exit the game. At the end of the game, players have the option to restart and play again.
 
 ## Requirements
-- Python 3.x
+- Python 3
 - Turtle graphics library
 
 ## How to Run
